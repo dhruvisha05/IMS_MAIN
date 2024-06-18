@@ -1,0 +1,43 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Anta&display=swap'); */
+
+.header h2{
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  font-family: "Modern No. 20", sans-serif !important;
+
+}
+.dropdown-menu{
+  transform:translate3d(0px,0px,0px)!important;
+  position: relative !important;
+  background-color: black !important;
+
+}
+.dropdown-item:focus, .dropdown-item:hover{
+  background-color: gray !important ;
+}
+.dropdown-item:focus, .dropdown-item:hover p{
+  margin-left: 30px;
+  background-color: gray !important ;
+}
+.dropdown-item p{
+  /* margin: 10px 0px; */
+  margin-left: 20px;
+  padding: 10px 0px;
+}
+.height{
+  height: 643px;
+}
+
+table{
+  border-collapse:unset !important;
+}
+table td{
+  margin: 20px 0px !important;
+}
+.overflow{
+  overflow-x: scroll;
+}
+.inquiry{
+  padding:0px 5px ;
+  margin: 2px  0px!important;
+}
